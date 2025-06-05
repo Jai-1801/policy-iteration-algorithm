@@ -18,7 +18,7 @@ Include the policy improvement function
 ### Name:Jai Surya R
 ### Register Number: 212223230084
 
-## OUTPUT:
+## PROGRAM:
 ```
 def policy_iteration(P, gamma=1.0, theta=1e-10):
     random_actions = np.random.choice(tuple(P[0].keys()), len(P))
